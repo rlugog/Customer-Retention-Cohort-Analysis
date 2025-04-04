@@ -1,21 +1,21 @@
-# 📦 Customer Retention & Cohort Analysis
+# 📦 Análisis de Retención de Clientes por Cohortes
 
-## Overview
-This project focuses on evaluating customer retention patterns over time in an online grocery store. By using cohort analysis, we identified behavioral trends across different user groups based on their first purchase month.
+## Descripción general
+Este proyecto se enfoca en evaluar el comportamiento de retención de los clientes a lo largo del tiempo en una tienda de comestibles en línea. A través del análisis de cohortes, se identificaron patrones de comportamiento entre grupos de usuarios según su primer mes de compra.
 
-## Objectives
-- Segment users into monthly cohorts
-- Build a retention matrix and retention curves
-- Identify trends and churn behavior to improve user retention strategies
+## Objetivos
+- Agrupar a los usuarios en cohortes mensuales según su primera compra
+- Construir una matriz de retención y visualizar curvas de retención
+- Identificar tendencias y patrones de abandono para proponer mejoras en la retención
 
-## Tools Used
+## Herramientas utilizadas
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
 
-## Key Findings
-- Most user churn occurs after the first month
-- Some cohorts showed higher retention, especially those acquired mid-year
-- Visualizing retention curves helped identify user segments with better engagement
+## Principales hallazgos
+- La mayoría de los clientes abandonan después del primer mes
+- Algunas cohortes presentaron mejor retención, especialmente las adquiridas a mitad del año
+- Las curvas de retención permitieron identificar segmentos de usuarios con mayor compromiso
 
 ## Dataset
-Simulated online store transaction data including order dates and customer IDs.
+Se utilizó un conjunto de datos simulado de una tienda en línea, que incluye fechas de orden y los ID de los clientes.
